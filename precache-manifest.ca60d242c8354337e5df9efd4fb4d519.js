@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "31d8f3cc4443a04462254998699d9730",
+    "revision": "cd22c6c26ba63e740d154abcaeb020c6",
     "url": "/Patient-Clinical-Data/index.html"
   },
   {
-    "revision": "28dfad62473989d6dc53",
+    "revision": "99a8ae04631793359dd7",
     "url": "/Patient-Clinical-Data/static/css/2.e7c4c567.chunk.css"
   },
   {
-    "revision": "7b5b118717f46b3874a7",
+    "revision": "932f5fcd49c8f4fe7fc1",
     "url": "/Patient-Clinical-Data/static/css/main.5f361e03.chunk.css"
   },
   {
-    "revision": "28dfad62473989d6dc53",
-    "url": "/Patient-Clinical-Data/static/js/2.af3331bf.chunk.js"
+    "revision": "99a8ae04631793359dd7",
+    "url": "/Patient-Clinical-Data/static/js/2.7d42ed82.chunk.js"
   },
   {
     "revision": "eaaf63558baae456918a991a401208d7",
-    "url": "/Patient-Clinical-Data/static/js/2.af3331bf.chunk.js.LICENSE.txt"
+    "url": "/Patient-Clinical-Data/static/js/2.7d42ed82.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7b5b118717f46b3874a7",
-    "url": "/Patient-Clinical-Data/static/js/main.1a50eec3.chunk.js"
+    "revision": "932f5fcd49c8f4fe7fc1",
+    "url": "/Patient-Clinical-Data/static/js/main.8ca148d4.chunk.js"
   },
   {
     "revision": "4e8b8cd41b3b2cf55b52",
